@@ -6,7 +6,7 @@ I'm an aspiring Data Analyst with a background in **Medical Laboratory Technolog
 
 ---
 
-## 🛠 Skills
+## 💻 Skills
 
 - SQL
 - Microsoft Excel
